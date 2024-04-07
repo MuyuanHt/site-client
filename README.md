@@ -1,2 +1,4 @@
 # site-client
-Site is a collaboration platform based on gin and grpc. This is the client for the user to use.
+
+- #### 本项目基于 [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
+
